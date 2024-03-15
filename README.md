@@ -1,0 +1,10 @@
+<img width="1440" alt="Screenshot 2024-03-15 at 9 02 10 PM" src="https://github.com/ManvithChandra0/MernAmsProject/assets/96135784/645a61a7-9c63-4531-b73c-8673d32392ba">
+<img width="1440" alt="Screenshot 2024-03-15 at 9 01 53 PM" src="https://github.com/ManvithChandra0/MernAmsProject/assets/96135784/66291a8a-7e43-40e1-97fe-430702fb46ab">
+<img width="1440" alt="Screenshot 2024-03-15 at 9 02 15 PM" src="https://github.com/ManvithChandra0/MernAmsProject/assets/96135784/62192f01-fc1b-4f60-b1fa-f9dd2d3adf2d">
+<img width="1440" alt="Screenshot 2024-03-15 at 9 02 19 PM" src="https://github.com/ManvithChandra0/MernAmsProject/assets/96135784/345e9e11-529e-400e-8dfc-596a384a786d">
+<img width="1440" alt="Screenshot 2024-03-15 at 9 02 23 PM" src="https://github.com/ManvithChandra0/MernAmsProject/assets/96135784/6d6602c0-4575-43a4-bf72-61cef0ec85cf">
+<img width="1440" alt="Screenshot 2024-03-15 at 8 58 33 PM" src="https://github.com/ManvithChandra0/MernAmsProject/assets/96135784/68ca250f-6954-4e32-90be-1b8dc70ee12a">
+<img width="1440" alt="Screenshot 2024-03-15 at 8 58 43 PM" src="https://github.com/ManvithChandra0/MernAmsProject/assets/96135784/bff751fc-4c33-478b-8ca6-6e40da8b006f">
+<img width="1440" alt="Screenshot 2024-03-15 at 9 03 11 PM" src="https://github.com/ManvithChandra0/MernAmsProject/assets/96135784/0408c46f-4126-49bd-abd6-600b1e28924c">
+<img width="1440" alt="Screenshot 2024-03-15 at 9 03 19 PM" src="https://github.com/ManvithChandra0/MernAmsProject/assets/96135784/01d7895a-cfc9-477c-9082-2c88b0448d08">
+<img width="1440" alt="Screenshot 2024-03-15 at 9 03 22 PM" src="https://github.com/ManvithChandra0/MernAmsProject/assets/96135784/350ce28c-77e4-4360-a52a-4e74f61d4faf">
