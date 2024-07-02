@@ -18,7 +18,7 @@ const UserOrder = require('./models/UserOrder');
 const UserAddress = require('./models/UserAddress');
 const UserData = require('./models/UserData');
 const app = express();
-const PORT = process.env.PORT || 5000;
+const PORT = process.env.PORT || 5001;
 
 const SECRET_KEY = 'ams123456789@@@@@@@@@'
 
