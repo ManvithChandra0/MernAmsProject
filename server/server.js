@@ -124,7 +124,7 @@ app.post('/register', async (req, res) => {
     }
 
     const tokens = jwt.sign({ email: userData.email }, SECRET_KEY, { expiresIn: '1h' });
-    const verificationLink = `http://localhost:5000/verify?token=${tokens}`;
+    const verificationLink = `https://mernamsproject.onrender.com/verify?token=${tokens}`;
 
     const mailOptions =
     {
@@ -194,7 +194,7 @@ app.get('/verify', async (req, res) => {
       })
     await addressData.save();
 
-    res.redirect('http://localhost:3000/login');
+    res.redirect('https://mernamsproject.onrender.com/login');
   }
   catch (error) {
     console.error(error);
