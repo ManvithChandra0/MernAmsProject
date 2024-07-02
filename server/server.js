@@ -18,13 +18,13 @@ const UserOrder = require('./models/UserOrder');
 const UserAddress = require('./models/UserAddress');
 const UserData = require('./models/UserData');
 const app = express();
-const PORT = process.env.PORT || 5001;
+const PORT = process.env.PORT || 5000;
 
 const SECRET_KEY = 'ams123456789@@@@@@@@@'
 
 app.use(cors());
 app.use(express.json());
-const uri = 'mongodb+srv://dattalade:dattalade@cluster0.fade8bn.mongodb.net/infinity?retryWrites=true&w=majority'
+const uri = 'mongodb+srv://cmanvithchandra:7AcT7yYOp8bk9HKH@cluster1.3l4qufu.mongodb.net/amsmern?retryWrites=true&w=majority&appName=Cluster1'
 mongoose.connect(uri);
 console.log('Connected to the database');
 
